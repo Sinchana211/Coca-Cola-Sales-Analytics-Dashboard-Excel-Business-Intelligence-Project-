@@ -11,6 +11,9 @@ The dashboard visualizes sales performance across U.S. retailers, highlighting k
 
 It enables users to explore Coca-Cola’s sales trends by retailer, region, beverage brand, and month.
 
+
+![Image](coco_cola_dashboard.png)
+
 ## 🎯 Project Objectives
 - Analyze Coca-Cola sales data using Excel BI tools.  
 - Provide interactive insights for business decision-making.  
